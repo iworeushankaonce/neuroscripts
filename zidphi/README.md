@@ -1,5 +1,5 @@
 # zIdPhi: Algorithm for Vicarious Trial and Error (VTE) quantification
-The zIdPhi algorithm, as described in Papale et. al.(2012). This implementation utilizes the edited source code obtained from Dr Anrew Papale Github.
+The zIdPhi algorithm, as described in Papale et. al.(2012). This implementation utilizes the edited source code obtained from Dr Andrew Papale Github.
 
 #### (Matlab implementation)
 ![matlab-figure](image-1.png)

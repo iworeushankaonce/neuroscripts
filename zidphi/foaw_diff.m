@@ -1,7 +1,7 @@
 function v_est = foaw_diff(y, Ts, m, d)
 
 % This algorithm was taked from the Github of Dr Andrew Papale,
-% and adapted to the usecase of our lab. For all the details,
+% and adapted to the usecase of data at hand. For all the details,
 % please refer to the original source code at
 % https://github.com/andrewpapale/odorTrails
 
